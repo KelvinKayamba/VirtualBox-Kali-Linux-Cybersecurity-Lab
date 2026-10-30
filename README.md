@@ -24,8 +24,8 @@ Installed and configured Oracle VirtualBox to create a virtualised cybersecurity
 
 - Prepared the environment for Kali Linux installation.
 
-**Screenshot:** https://github.com/KelvinKayamba/VirtualBox-Kali-Linux-Cybersecurity-Lab/blob/main/Virtualbox%20Configuration.png
-
+**Screenshot:** 
+![VirtualBox Configuration](https://github.com/KelvinKayamba/VirtualBox-Kali-Linux-Cybersecurity-Lab/blob/main/Virtualbox%20Configuration.png?raw=true)
 
 # 2. Kali Linux Installation and Configuration
 
@@ -49,8 +49,8 @@ Downloaded and imported Kali Linux into VirtualBox, then configured the virtual 
 
 - Created a virtual machine snapshot.
 
-**Screenshot:** https://github.com/KelvinKayamba/VirtualBox-Kali-Linux-Cybersecurity-Lab/blob/main/Kali%20Linux.jpg
-
+**Screenshot:** 
+![Kali Linux Setup](https://github.com/KelvinKayamba/VirtualBox-Kali-Linux-Cybersecurity-Lab/blob/main/Kali%20Linux.jpg?raw=true)
 
 
 # 3. Skills Gained
